@@ -1,7 +1,6 @@
 # arthistime
 
-A new Flutter project.
-adn i
+A new Flutter project
 
 ## Getting Started
 
